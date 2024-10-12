@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm [Hasan]
 
 💫 **About Me:**
 I'm a passionate programmer who started my journey in the world of IT in 2020, focusing on Python and exploring various technologies.
