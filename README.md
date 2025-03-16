@@ -1,7 +1,7 @@
 <a href=#><img src="hello.svg"></a>
 
 <h2 align="left">
-  My name is Hasan Kenjaev and I'm a Python developer!
+  I'm Hasan Kenjaev, working with Python to build innovative solutions.
 </h2>
 
 ###
