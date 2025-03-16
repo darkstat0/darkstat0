@@ -1,6 +1,6 @@
 <a href=#><img src="hello.svg"></a>
 
-<h2 align="left" style="font-family: 'Consolas'">
+<h2 align="left">
   My name is Hasan Kenjaev and I'm a Python developer!
 </h2>
 
