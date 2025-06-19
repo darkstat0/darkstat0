@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://youtu.be/k_v_LDEDA2A" target="_blank">
-    <img src="./assets/uzingni_aldama_small.gif" alt="Видео запускается автоматически" style="width:100%; max-width:800px;" />
+  <a href="https://youtu.be/k_v_LDEDA2A" target="_blank" style="width:100%;">
+    <img src="./assets/uzingni_aldama_small.gif" alt="Видео запускается автоматически" style="width:100%;"/>
   </a>
 
   <br>
