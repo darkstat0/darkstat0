@@ -1,3 +1,8 @@
+<style>
+  animated-image{
+    width:100%
+  }
+</style>
 <div align="center" style="width:100%;">
 <!-- https://youtu.be/k_v_LDEDA2A -->
   <a href="/" target="_blank" style="width:100%;"> 
