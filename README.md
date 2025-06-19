@@ -3,7 +3,7 @@
   <img src="./assets/uzingni_aldama_small.gif" alt="Видео запускается автоматически" />
 </a>
 
-
+<br>
 <a href="#">
   <img src="./assets/hello.svg" alt="hello" />
 </a>
