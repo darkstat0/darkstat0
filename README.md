@@ -1,16 +1,12 @@
-<div align="center" style="width:100%;">
-<!-- https://youtu.be/k_v_LDEDA2A -->
-  <a href="/" target="_blank" style="width:100%;"> 
-    <img src="./assets/uzingni_aldama_small.gif" alt="Видео запускается автоматически" style="width:100%;"/>
+<div align="center">
+  <a href="https://youtu.be/k_v_LDEDA2A" target="_blank"> 
+    <img src="./assets/uzingni_aldama_small.gif" alt="Видео запускается автоматически"/>
   </a>
-
   <br>
   <a href="#">
     <img src="./assets/hello.svg" alt="hello" />
   </a>
 </div>
-
-
 
 <h2 align="center">
   I'm Hasan Kenjaev, working with Python to build innovative solutions.
