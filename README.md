@@ -1,8 +1,19 @@
-<a href=#><img src="hello.svg"></a>
+<div align="center">
+<a href="https://youtu.be/k_v_LDEDA2A" target="_blank">
+  <img src="./assets/uzingni_aldama_small.gif" alt="Видео запускается автоматически" />
+</a>
 
-<h2 align="left">
+
+<a href="#">
+  <img src="./assets/hello.svg" alt="hello" />
+</a>
+</div>
+
+
+<h2 align="center">
   I'm Hasan Kenjaev, working with Python to build innovative solutions.
 </h2>
+
 
 ###
 
@@ -45,5 +56,3 @@
 <br clear="both">
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-
-###
